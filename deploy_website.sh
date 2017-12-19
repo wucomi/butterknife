@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -ex
+
 
 REPO="git@github.com:JakeWharton/butterknife.git"
 GROUP_ID="com.jakewharton"
